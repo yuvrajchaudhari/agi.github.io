@@ -867,6 +867,12 @@ footer::before {
   .toggle.active:before{
     content:'\f00d';
   }*/
+  @media(max-width:1024px){
+    header ul, li {
+        list-style: none;
+        font-size: 15px;
+    }
+  }
   @media(max-width:768px)
   {
     .sidebar-contact{
