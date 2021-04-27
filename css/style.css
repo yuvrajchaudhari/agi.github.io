@@ -43,8 +43,8 @@ header ul,li{list-style: none;font-size: 18px;}
 }
 .banner{
     position: relative;
-    padding-top:80px;
-    padding-bottom: 50px;
+    /* padding-top:80px;
+    padding-bottom: 50px; */
     z-index:1;
 }
 .banner::before {
